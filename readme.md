@@ -11,7 +11,7 @@
 5. Add code to add these 2 values together and display the result the JavaScript console using console.log().
 6. You must **ADD** the values together - don't substitute other mathematical operations such as subtraction, multiplication, or division.
 7. Page must be valid HTML by passing the W3C validation service.
-8. Push your changes back to GitHub using "git push" within Visual Studio Code. Use the Visual Studio Code Command Pallette for this.
+8. Push your changes back to GitHub using "git push" within Visual Studio Code. Use the Visual Studio Code Command Palette for this.
 
 ## Grading Rubric
 
